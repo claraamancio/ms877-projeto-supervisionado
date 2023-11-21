@@ -10,5 +10,6 @@ O código foi desenvolvido em Python e foram usadas as seguintes bibliotecas: Cv
 # Conclusão
 Máquinas de Vetores de Suporte possuem grande fundamento teórico matemático. A técnica classifica padrões com alta taxa de eficácia. Para melhor classificação é preciso uma boa escolha de kernel e dos parâmetros envolvidos. O código próprio construído obteve uma boa solução para conjuntos com padrões linearmente separáveis. A biblioteca Sklearn avaliou melhor os dados (conjuntos com padrões linearmente separáveis e conjuntos com padrões não-separáveis linearmente) do que o código próprio contruído.
 
-# Monografia
-Acesse a monografia do trabalho: https://www.ime.unicamp.br/~mac/db/2023-1S-231488.pdf
+# Acesse
+[Monografia](https://github.com/claraamancio/ms877-projeto-supervisionado/blob/main/monografia_ms877.pdf)  
+[Códigos](https://github.com/claraamancio/ms877-projeto-supervisionado/blob/main/ms877.ipynb)
