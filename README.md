@@ -1,5 +1,5 @@
-# ms877-projeto-supervisionado
-Projeto "Um estudo sobre Máquinas de Vetores de Suporte" orientado pelo Prof. Dr. Marcos Eduardo Ribeiro do Valle Mesquita realizado na disciplina MS877 - Projeto Supervisionado do Instituto de Matemática, Estatística e Computação Científica.
+# Um estudo sobre Máquinas de Vetores de Suporte
+Projeto Supervisionado "Um estudo sobre Máquinas de Vetores de Suporte" orientado pelo Prof. Dr. Marcos Eduardo Ribeiro do Valle Mesquita realizado na disciplina MS877 - Projeto Supervisionado do Instituto de Matemática, Estatística e Computação Científica.
 
 # Objetivos
 Essa trabalho tem como objetivo o estudo das Máquinas de Vetor Suporte Vetorial do ponto de vista matemático, entendendo a técnica como um problema de otimização quadrática e além disso almejamos a criação um código próprio para a resolução do problema de otimização. 
